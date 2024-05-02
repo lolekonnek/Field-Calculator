@@ -1,4 +1,11 @@
 Field Calculator
+Linux
 ```sh
-  python3 moj_kod.py
+  python3 CALCULATOR.py
 ```
+OR WINDOWS
+```sh
+python moj_kod.py
+```
+
+  
